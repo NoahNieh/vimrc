@@ -1,5 +1,4 @@
 set nu
-set syntax on
 set showcmd
 set autoindent
 set tabstop=4
