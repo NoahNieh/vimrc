@@ -1,4 +1,4 @@
-set nu
+set nu rnu ru
 set showcmd
 set autoindent
 set tabstop=4
